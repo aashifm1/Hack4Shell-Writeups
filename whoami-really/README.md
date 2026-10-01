@@ -23,13 +23,13 @@
 
 The challenge starts at a login page.
 
-<img width="650" height="400" alt="wiener-login" src="https://github.com/user-attachments/assets/50d7a585-033b-4589-9992-2e9af801fe3e" />
+<img width="700" height="500" alt="wiener-login" src="https://github.com/user-attachments/assets/50d7a585-033b-4589-9992-2e9af801fe3e" />
 
 Logging in with the provided credentials (`wiener:peter`) grants access to the internal office portal.
 
 From the dashboard, an **Employee Panel** link is visible, but attempting to open it returns an access-denied response — `wiener` doesn't have the right privileges.
 
-<img width="650" height="200" alt="Access denied to Employee Panel" src="https://github.com/user-attachments/assets/38bab147-6ff4-4b70-9fa2-88bf20a72a6f" />
+<img width="850" height="350" alt="Access denied to Employee Panel" src="https://github.com/user-attachments/assets/38bab147-6ff4-4b70-9fa2-88bf20a72a6f" />
 
 ### 2. Vulnerability #1 — Broken Authentication via Unsigned JWT
 
