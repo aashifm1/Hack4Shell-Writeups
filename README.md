@@ -42,3 +42,4 @@ For event questions and updates:
 - Event website: https://hack4shell-ctf.vercel.app
 - Discord: https://discord.gg/hHFx8TfxFp
 - Instagram: https://instagram.com/hack4sh3ll
+- Medium: https://medium.com/@CyberX7u/list/hack4shell-ctf-writeups-dd9f02f3f350
